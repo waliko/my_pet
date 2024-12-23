@@ -1,0 +1,6 @@
+.venv
+Dockerfile
+tasks.db
+__pycache__
+README.md
+.gitignore
